@@ -1,0 +1,5 @@
+Name,Hp,Damage,FireRate,Speed,FireRange,ShotMode
+Attribute : Chaser,,-0.3,-0.2,,,Chaser
+Attribute : Piercing,,,,,-0.15,Piercing
+Attribute : Shotgun,,-0.15,,,,Shotgun
+Attribute : Wing,,,-0.1,,,Wing

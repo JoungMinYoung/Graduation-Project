@@ -1,0 +1,11 @@
+Name,Hp,Damage,FireRate,Speed,FireRange
+Angel's Ring,,0.1,,,
+Burning Stone,-1,0.2,,,
+Devil's Cookie,,0.1,,-0.1,
+Devil's Flower,,,0.1,,
+Hawkeye,,,,,0.2
+Lava Coffee,,,,0.15,
+LifeStone,1,,,,
+Suspicious Contract,-2,0.5,,,
+Suspicious Ring,,0.15,-0.1,,
+Wriggling Flesh,1,,,-0.15,
